@@ -1,0 +1,10 @@
+:root {
+  --color-primary: #55a6db;
+  --color-secondary: #d99d00;
+  --color-btn: #29b000;
+  --border-radius: 24px;
+}
+
+body {
+  font-family: 'Gotham-Book-regular' !important;
+}

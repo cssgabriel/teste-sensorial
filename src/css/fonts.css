@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'Gotham-Book-regular';
+  src: url('../../assets/fonts/FontsFree-Net-GothamBook.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Gotham-Book-medium';
+  src: url('../../assets/fonts/FontsFree-Net-GothamBook.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Gotham-Book-bold';
+  src: url('../../assets/fonts/FontsFree-Net-GothamBook.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}

@@ -1,0 +1,16 @@
+.rounded-default {
+  border-radius: var(--border-radius);
+}
+.bg-color-primary {
+  background-color: var(--color-primary);
+}
+.text-color-primary {
+  color: var(--color-primary);
+}
+
+.bg-color-secondary {
+  background-color: var(--color-secondary);
+}
+.text-color-secondary {
+  color: var(--color-secondary);
+}
